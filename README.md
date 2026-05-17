@@ -1,21 +1,21 @@
-# 🎬 Movie Review Site
+#  Movie Review Site
 
 A full-stack Movie Review Web Application where users can search movies, view movie details, and add reviews. Users can also edit and delete their reviews. The project uses the TMDB API to fetch movie data.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔍 Search movies
-- ✍️ Add reviews
-- 📝 Edit reviews
-- ❌ Delete reviews
-- 🌐 Frontend & Backend Integration
-- 📱 Responsive Design
+-  Search movies
+-  Add reviews
+-  Edit reviews
+-  Delete reviews
+-  Frontend & Backend Integration
+-  Responsive Design
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - HTML
@@ -34,7 +34,7 @@ A full-stack Movie Review Web Application where users can search movies, view mo
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```bash
 movie-review-site/
@@ -56,7 +56,7 @@ movie-review-site/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the repository
 
@@ -92,14 +92,14 @@ npm start
 
 ---
 
-## 🎯 API Used
+##  API Used
 
 - TMDB API  
 https://www.themoviedb.org/
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Add your project screenshots here.
 
@@ -109,7 +109,7 @@ Add your project screenshots here.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - User Authentication
 - Movie Ratings
@@ -119,7 +119,7 @@ Add your project screenshots here.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 ### Gopa Dutta
 
